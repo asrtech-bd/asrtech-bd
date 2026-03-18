@@ -2,7 +2,7 @@
 <h3 align="center">WHMCS Customization | Web Development | SEO Services</h3>
 
 <p align="center">
-  <a href="https://asrtech.bd">🌐 Website</a> &bull;
+  <a href="https://www.asrtech.bd">🌐 Website</a> &bull;
   <a href="mailto:info@asrtech.bd">📧 Email</a>
 </p>
 
@@ -60,5 +60,5 @@ We are **ASR Tech**, a professional software development company based in **Bang
 We are open to freelance projects and long-term collaborations. If you need WHMCS expertise or custom web solutions, feel free to reach out!
 
 <p align="center">
-  <a href="https://asrtech.bd"><img src="https://img.shields.io/badge/Visit-asrtech.bd-blue?style=for-the-badge" alt="Website" /></a>
+  <a href="https://www.asrtech.bd"><img src="https://img.shields.io/badge/Visit-asrtech.bd-blue?style=for-the-badge" alt="Website" /></a>
 </p>
